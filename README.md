@@ -49,3 +49,4 @@
 
 </body>
 </html>
+vercel --prod
